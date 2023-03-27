@@ -8,10 +8,8 @@ package mang1c_a;
  *
  * @author phuoc
  */
-public class Mang2chieu {
+public class Java {
     public static void main(String[] args) {
-        System.out.println("Code de push");
-        System.out.println("Helllo everyone");
-        System.out.println("The fuch are u doing bro");
+        System.out.println("Hello");
     }
 }
